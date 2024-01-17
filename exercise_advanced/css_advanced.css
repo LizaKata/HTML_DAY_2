@@ -18,6 +18,8 @@ body {
   font-weight: 400;
   color: #555;
   padding: 2rem;
+  display: flex;
+  justify-content: center;
 }
 
 .descriptions p {
