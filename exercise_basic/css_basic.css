@@ -9,12 +9,12 @@ html {
   /* 62.5% is like 10px */
 }
 
-body {
+/* /* body {
   font-family: "Rubik", sans-serif;
   line-height: 1;
   font-weight: 400;
   color: #555;
-}
+} */
 
 div {
   margin: 0.5rem;
