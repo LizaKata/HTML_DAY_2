@@ -10,8 +10,17 @@ html {
 }
 
 body {
+  font-family: "Inter", sans-serif;
   font-family: "Rubik", sans-serif;
+  font-family: "Shadows Into Light", cursive;
+  font-family: "Source Code Pro", monospace;
   line-height: 1;
   font-weight: 400;
   color: #555;
+  padding: 2rem;
+}
+
+.descriptions p {
+  line-height: 1.2;
+  font-size: 1.6rem;
 }
